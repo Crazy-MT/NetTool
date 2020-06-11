@@ -1,0 +1,3 @@
+rootProject.name='NetTool'
+include ':app', ':kit-cmd', ':connectionclass'
+include ':netstatus'
